@@ -4,7 +4,7 @@ import LoginPage from './components/login';
 function App() {
   return (
     <div>
-      <LoginPage/>
+      <LoginPage />
     </div>
   );
 }
